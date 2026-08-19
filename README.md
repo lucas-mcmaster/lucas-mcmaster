@@ -1,6 +1,6 @@
-# Hi, I'm Lucas
+# Hi, I'm Lucas!
 
-Mechanical Engineering graduate from the University of Toronto with minors in Business and Biomedical Engineering. I specialize in mechatronics, embedded systems, autonomous robotics, and engineering software tools.
+I'm a mechanical engineering graduate from the University of Toronto with minors in Business and Biomedical Engineering. I specialize in mechatronics, embedded systems, autonomous robotics, and engineering software tools.
 
 ---
 
