@@ -17,7 +17,7 @@ Mechanical Engineering graduate from the University of Toronto with minors in Bu
 
 | Project | Domain | Key Technologies |
 | :--- | :--- | :--- |
-| **[BeamTool](https://github.com/lucas-mcmaster/BeamTool-Capstone-Project)** | Full-Stack CAE / AI | Python, Flask, NumPy, Macaulay Solver, Gemini 2.5 Flash |
+| **[BeamTool](https://github.com/lucas-mcmaster/BeamTool-Capstone-Project)** | Full-Stack Development / Computer-Aided Engineering / AI | Python, Flask, NumPy, Macaulay Solver, Gemini 2.5 Flash |
 | **[Mobile Manipulation Robot](https://github.com/lucas-mcmaster/MIE443-Contest-2)** | Robotics & Computer Vision | ROS 2, Nav2, MoveIt 2, YOLOv8, AprilTags, C++ |
 | **[Embedded Pill Counter](https://github.com/lucas-mcmaster/MIE438-Pill-Counter-Project)** | Firmware & Mechatronics | STM32H753ZI (Cortex-M7), Bare-Metal C, Timers, EXTI, I2C |
 | **[Autonomous SLAM Exploration](https://github.com/lucas-mcmaster/MIE443-Contest-1)** | Autonomous Systems | ROS 2, SLAM Toolbox, LiDAR 2D Mapping, 10Hz Priority FSM |
