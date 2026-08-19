@@ -27,5 +27,4 @@ Mechanical Engineering graduate from the University of Toronto with minors in Bu
 ###  Connect With Me
 
 - **LinkedIn:** [https://www.linkedin.com/in/lucas-pierre-mcmaster/]
-- **Portfolio / Website:** [Your Website Link Here]
 - **Email:** [lucasmcmaster22@gmail.com]
