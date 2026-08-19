@@ -4,7 +4,7 @@ Mechanical Engineering graduate from the University of Toronto with minors in Bu
 
 ---
 
-### 🛠️ Core Technical Competencies
+###  Core Technical Competencies
 
 - **Languages:** C/C++, Python, MATLAB, JavaScript (ES6+), HTML5/CSS3, SQL
 - **Robotics & Control:** ROS 2 (Humble/Iron), Nav2, MoveIt 2, SLAM Toolbox, OpenCV, YOLO
@@ -13,7 +13,7 @@ Mechanical Engineering graduate from the University of Toronto with minors in Bu
 
 ---
 
-### 🚀 Featured Engineering Projects
+###  Featured Engineering Projects
 
 | Project | Domain | Key Technologies |
 | :--- | :--- | :--- |
@@ -24,8 +24,8 @@ Mechanical Engineering graduate from the University of Toronto with minors in Bu
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 
-- **LinkedIn:** [[linkedin.com/in/lucas-mcmaster](https://linkedin.com)](https://www.linkedin.com/in/lucas-pierre-mcmaster/)
+- **LinkedIn:** [https://www.linkedin.com/in/lucas-pierre-mcmaster/]
 - **Portfolio / Website:** [Your Website Link Here]
 - **Email:** [lucasmcmaster22@gmail.com]
